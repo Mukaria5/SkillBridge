@@ -167,24 +167,9 @@ Open `index.html` in your preferred web browser.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* About Page
-* Services Page
-* Gallery Page
-* Contact Page
-
----
 
 # 👨‍💻 Author
 
 **Mukaria**
 
 ---
-
-# 📜 License
-
-This project was created for educational purposes as part of an Internet Programming course.
