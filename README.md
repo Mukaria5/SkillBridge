@@ -181,9 +181,7 @@ Add screenshots of:
 
 # 👨‍💻 Author
 
-**Your Name**
-
-Registration Number: **YOUR REGISTRATION NUMBER**
+**Mukaria**
 
 ---
 
